@@ -1,0 +1,9 @@
+git config --global user.name "Juliano Ferreira"
+git config --global user.email "webjuliano@gmail.com"
+
+ls -a
+cat .gitconfig
+
+git clone https://github.com/webjuliano/trebeschi
+
+git status
